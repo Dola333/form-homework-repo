@@ -1,0 +1,34 @@
+* {
+    margin:0%;
+    padding: 0%;
+    border-collapse: collapse;
+ 
+}
+body {
+    margin-left:25px;
+}
+
+table {
+    border: 2px solid black;
+    margin-left: 25px;
+    width: 35%;
+}
+
+td, th {
+    border: 2px solid black;
+    padding: 15px;
+   
+    
+}
+
+tr:nth-child(1){
+    background-color: violet;
+}
+
+tr:nth-child(2){
+    background-color: rgb(132, 130, 238);
+}
+
+tr:nth-child(3){
+    background-color: rgb(72, 173, 114);
+}
